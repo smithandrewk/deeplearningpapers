@@ -1,1 +1,3 @@
 # deeplearningpapers
+### Learning in High Dimension Always Amounts to Extrapolation : [arXiv](https://arxiv.org/abs/2110.09485)
+*29 October 2021* - When developing an understanding of generalization (in the context of machine learning), it is easy to consider interpolation and extrapolation. In high dimensions (around 100 or more), in some sense, it is more common to find a data point outside of your convex hull. Suppose you have some training data and a convex hull within which the training data is contained. When there are many dimensions, there are many directions a new data point could go to escape the convex hull.
